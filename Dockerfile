@@ -1,7 +1,7 @@
 # Uutroi - UmserBot
 # Copyright (C) 2021-2022 uutroi
 # This file is a part of < https://github.com/aldrinsai6/Uutroi/ >
-# PLease read the GNU Affero General Public License in <https://www.github.com/TeamUltroid/Ultroid/blob/main/LICENSE/>.
+# PLease read the GNU Affero General Public License in <https://www.github.com/aldrinsai6/Uutroi/blob/main/LICENSE/>.
 
 FROM aldrinsai6/uutroi:main
 
